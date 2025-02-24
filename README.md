@@ -20,7 +20,8 @@ Ao clicar em um dos ícones, a imagem correspondente da rede social aparece no *
 https://guilhermeguedes1.github.io/project-social-media/
 
 ## 📸 Captura de Tela
-![Captura de tela 2025-02-24 125115](https://github.com/user-attachments/assets/d83970b7-6880-4dde-a53a-6677070089d7
+![Captura de tela 2025-02-24 125115](https://github.com/user-attachments/assets/b16fc862-f0fb-4954-964c-d071263ea4f6)
+
 
 
 ## 📜 Créditos
